@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋, Kaustubh Shetty </h1>
-<h3 align="center">I'm a Flutter App Developer and Full Stack Developer with a keen interest in AI</h3>
+<h3 align="center">I'm a Full Stack Developer and Flutter Mobile App Developer with a keen interest in AI</h3>
 <h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/></h3>
 
 
