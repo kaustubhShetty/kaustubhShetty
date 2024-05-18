@@ -6,7 +6,7 @@
 
 **Key Skills: VUE / REACT / FLUTTER/ JS / HTML / CSS / FLASK/ NODE.JS / SQL / NoSQL**
 
-- 🔭 I’m currently working on **mastering Full Stack Development and a project with LLM **
+- 🔭 I’m currently working on **mastering Full Stack Development and a project with LLM**
 - 🌱 I’m currently preparing for my **AWS Cloud Practioner Exam**
 - 💬 Ask me about **Flutter Mobile App Development**
 - ⚡ Fun fact:** I like to play Valorant, workout at the Gym and work on interesting coding projects**
