@@ -8,7 +8,7 @@
 
 **Key Skills: VUE / REACT / FLUTTER/ JS / HTML / CSS / FLASK/ NODE.JS / SQL / NoSQL**
 
-- 🔭 I’m currently working on **mastering Full Stack Development and a project with LLM**
+- 🔭 I’m currently working on **Mastering Full Stack Development and a project with LLM**
 - 🌱 I’m currently preparing for my **AWS Cloud Practioner Exam**
 - 💬 Ask me about **Flutter Mobile App Development**
 - ⚡ Fun fact: **I like to play Valorant, workout at the Gym and work on interesting coding projects**
@@ -20,7 +20,7 @@
 
 ## 📊 Github stats
 <p align="center">
-<a href="https://github.com/sherwyn11/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sherwyn11&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
+<a href="https://github.com/sherwyn11/github-readme-streak-stats"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sherwyn11's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhShetty&theme=tokyonight&hide_border=true" height="192px" width="950px"/></a>
 <!--<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sherwyn11's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sherwyn11&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sherwyn11's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherwyn11&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&card_width=300px" height="192px"/></a>-->
  </p>
